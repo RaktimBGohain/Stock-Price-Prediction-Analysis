@@ -3,7 +3,7 @@ Originally this project was done purely on python which i uploaded in brain_tumo
 
 You can visit the project in the Colab Link given below.
 
-The dataset you can download from the repository or from the kaggle link given below.
+The dataset (Tesla_dataset.csv) you can download from the repository or from the kaggle link given below.
 
 ## Colab Link: 
 https://colab.research.google.com/drive/1eH5FA9hrt_ohSmE0OPnuAfUBaIpWr6TA?usp=sharing
